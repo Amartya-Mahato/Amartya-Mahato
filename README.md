@@ -30,7 +30,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartya-mahato&show_icons=true&locale=en&layout=compact" alt="amartya-mahato" /></p>
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=amartya-mahato&show_icons=true&locale=en" alt="amartya-mahato" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartya-mahato&show_icons=true&locale=en" alt="amartya-mahato" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=amartya-mahato&" alt="amartya-mahato" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amartya-mahato&" alt="amartya-mahato" /></p>
 
