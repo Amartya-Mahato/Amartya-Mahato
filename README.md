@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amartya Mahato</h1>
 <h3 align="center">I am from India, Currently in collage</h3>
-<a href="https://app.daily.dev/amartya"><img align="right" src="https://api.daily.dev/devcards/4b988e16e5084e8d979038e824ccfc31.png?r=o7q" width="300" alt="Amartya Mahato's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartya-mahato&label=Profile%20views&color=0e75b6&style=flat" alt="amartya-mahato" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amartya-mahato&theme=monokai" alt="amartya-mahato" /></a> </p>
@@ -30,6 +29,6 @@
 
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartya-mahato&show_icons=true&locale=en&layout=compact&theme=monokai" alt="amartya-mahato"/></p> -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amartya-mahato&show_icons=true&locale=en&theme=monokai" alt="amartya-mahato"  width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amartya-mahato&show_icons=true&locale=en&theme=monokai" alt="amartya-mahato"  width="410" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amartya-mahato&theme=monokai" alt="amartya-mahato"  width="410" /></p>
 
