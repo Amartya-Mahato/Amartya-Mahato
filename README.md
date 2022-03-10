@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amartya-mahato&theme=monokai" alt="amartya-mahato" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@amartya_mahato" target="blank"><img src="https://img.shields.io/twitter/follow/@amartya_mahato?logo=twitter&style=for-the-badge" alt="@amartya_mahato" /></a> </p>
-
+<a href="https://app.daily.dev/amartya"><img align="right" src="https://api.daily.dev/devcards/4b988e16e5084e8d979038e824ccfc31.png?r=o7q" width="144" alt="Amartya Mahato's Dev Card"/></a>
 - 🌱 I’m currently learning **B.Tech - Information Technology**
 
 - 💬 Ask me about **DSA, c, c++, Java, JavaFX, and Open Source Contributions**
